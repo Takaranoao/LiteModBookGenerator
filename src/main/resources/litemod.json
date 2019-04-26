@@ -1,0 +1,8 @@
+{
+    "name": "BookGenerator",
+    "version": 1.0,
+    "mcversion": "1.12.2",
+    "mixinConfigs": [
+        "mixins.bookgenerator.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.5.3",
+    "package": "com.takaranoao.bookgenerator.mixin",
+    "refmap": "mixins.bookgenerator.refmap.json",
+    "mixins": [
+        "MixinGuiScreenBook"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
