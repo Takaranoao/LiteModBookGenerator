@@ -36,6 +36,7 @@ minecraft {
 
 mixin {
     defaultObfuscationEnv notch
+    add sourceSets.main, 'mixins.bookgenerator.refmap.json'
 }
 litemod {
     json {
